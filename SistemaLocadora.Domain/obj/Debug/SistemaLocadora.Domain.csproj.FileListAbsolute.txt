@@ -1,0 +1,18 @@
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\SistemaLocadora.Domain.pdb
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.CopyComplete
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\SistemaLocadora.Domain.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.csproj.CopyComplete
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora.Domain\obj\Debug\SistemaLocadora.Domain.pdb

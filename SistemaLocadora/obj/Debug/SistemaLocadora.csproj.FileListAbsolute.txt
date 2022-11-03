@@ -1,0 +1,41 @@
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.exe.config
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.exe
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.pdb
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Form1.resources
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Properties.Resources.resources
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.GenerateResource.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.exe
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.pdb
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.CopyComplete
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Cliente1.resources
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Data.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Data.pdb
+C:\Users\User\Documents\Projeto Locadora\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Domain.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.exe.config
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.exe
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\Dapper.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Data.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Domain.dll
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Data.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\SistemaLocadora.Domain.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\bin\Debug\Dapper.xml
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Cliente1.resources
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Form1.resources
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.PesquisarCliente.resources
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.Properties.Resources.resources
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.GenerateResource.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.csproj.CopyComplete
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.exe
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.pdb
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.CadastroFilme.resources
+C:\Users\User\Documents\Nuvem3\Projeto Locadora - Copia\SistemaLocadora\SistemaLocadora\obj\Debug\SistemaLocadora.CatalogoFilmes.resources
